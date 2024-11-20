@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function NotFoundScreen() {
+export default function TextCustom() {
   return (
     <View>
-      <Text>+not-found</Text>
+      <Text>TextCustom</Text>
     </View>
   )
 }
